@@ -1,0 +1,24 @@
+{
+  "name": "automating-boardgamegeek",
+  "version": "1.0.0",
+  "description": "1. Join or Register new user\r 2. Log in as new user\r 3. Search for game\r 4. Create new Geeklist\r 5. Find new user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atchafalaya/automating-boardgamegeek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atchafalaya/automating-boardgamegeek/issues"
+  },
+  "homepage": "https://github.com/atchafalaya/automating-boardgamegeek#readme",
+  "dependencies": {
+    "chromedriver": "^97.0.0",
+    "jest": "^27.4.7",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
